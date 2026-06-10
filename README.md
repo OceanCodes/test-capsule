@@ -35,3 +35,4 @@ This capsule is designed for testing purposes. When cloned or synchronized with 
 
 **Note**: This is a test repository and should not be used for production workflows.
 test
+push test
