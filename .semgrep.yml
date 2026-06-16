@@ -1,0 +1,6 @@
+rules:
+  - id: co-no-print-statements
+    pattern: print(...)
+    message: "Print statement found — use a logger instead"
+    languages: [python]
+    severity: ERROR
